@@ -19,11 +19,11 @@ export default () => {
   }
 
   return (
-    <div>
+    
       <Router history={history}>
-        <header>
+        
           <Navbar />
-        </header>
+        
         <Switch>
           <PrivateRoute exact path="/" component={Home} />
           <PrivateRoute exact path="/about" component={About} />
@@ -33,6 +33,6 @@ export default () => {
           <PrivateRoute exact path="/resources" component={Resources} />
         </Switch>
       </Router>
-    </div>
+    
   );
 };

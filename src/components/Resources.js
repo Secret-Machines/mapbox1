@@ -6,6 +6,7 @@ export default () => {
       <h1>Crime Resources: </h1>
       <p className="Link">
         Beaumont Police Reports
+        <br/>
         <a
           style={{ color: "black" }}
           href="https://p2c.beaumonttexas.gov/p2c/"
@@ -18,6 +19,7 @@ export default () => {
       </p>
       <p className="Link">
         CrimeMapping.com
+        <br/>
         <a
           style={{ color: "black" }}
           href="https://www.crimemapping.com/"
@@ -30,6 +32,7 @@ export default () => {
       </p>
       <p className="Link">
         LexisNexis Community Crime Map
+        <br/>
         <a
           style={{ color: "black" }}
           href="https://communitycrimemap.com/"
@@ -42,6 +45,7 @@ export default () => {
       </p>
       <p className="Link">
         Crime Reports
+        <br/>
         <a
           style={{ color: "black" }}
           href="https://www.crimereports.com/"
@@ -54,6 +58,7 @@ export default () => {
       </p>
       <p className="Link">
         ADT Crime Map
+        <br/>
         <a
           style={{ color: "black" }}
           href="https://www.adt.com/crime"

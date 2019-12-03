@@ -10,8 +10,8 @@ const MAPBOX_TOKEN = process.env.REACT_APP_MAP;
 class SearchMap extends Component {
   state = {
     viewport: {
-      latitude: 37.7577,
-      longitude: -122.4376,
+      latitude: 30.0813633,
+      longitude: -94.2679954,
       zoom: 8
     },
     searchResultLayer: null

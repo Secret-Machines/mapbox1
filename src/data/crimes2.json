@@ -1,0 +1,905 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "11-24-2019",
+        "ADDRESS": "1010 Washington Blvd, Beaumont, TX 77706",
+        "TYPE": "Robbery at a food market (Paradise Market)",
+        "WEBSITE": "https://kfdm.com/news/local/cell-phone-picture-from-witness-helps-bpd-catch-young-robbery-suspects",
+        "DESCRIPTION": "Three teens apprehended in robbery."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0943202, 30.057889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "11-23-2019",
+        "ADDRESS": "4200 Block of Cleveland Ave, Beaumont, TX, 77703",
+        "TYPE": "Stabbing",
+        "WEBSITE": "https://www.12newsnow.com/article/news/crime/beaumont-police-investigate-stabbing-on-cleveland-avenue-suspect-on-the-loose/502-20d9286d-d05e-4ff3-ab0a-3096c430e510",
+        "DESCRIPTION": "A victim was stabbed in the upper torso."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1221257, 30.1186909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "11-17-2019",
+        "ADDRESS": "1900 Block of Harrison, Beaumont, TX 77701",
+        "TYPE": "Aggravated Robbery",
+        "WEBSITE": "https://kfdm.com/news/local/beaumont-police-investigating-multiple-aggravated-robberies-of-individuals-over-weekend",
+        "DESCRIPTION": "One of 4 Robberies that occurred outside by the victims car. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1148296, 30.0898744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "11-17-2019",
+        "ADDRESS": "4040 Crow Road (Harbor Apartments), Beaumont, TX 77706",
+        "TYPE": "Aggravated Robbery",
+        "WEBSITE": "https://kfdm.com/news/local/beaumont-police-investigating-multiple-aggravated-robberies-of-individuals-over-weekend",
+        "DESCRIPTION": "One of 4 Robberies that occurred outside by the victims' car. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1547672, 30.1180995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "11-17-2019",
+        "ADDRESS": "Area of Hayes Ln and Cleveland Ave, Beaumont, TX 77703",
+        "TYPE": "Aggravated Robbery",
+        "WEBSITE": "https://kfdm.com/news/local/beaumont-police-investigating-multiple-aggravated-robberies-of-individuals-over-weekend",
+        "DESCRIPTION": "One of 4 Robberies that occurred outside by the victims' car. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.122101, 30.1167191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "11-15-2019",
+        "ADDRESS": "Near Holst Ave and Helbig Rd., Beaumont, TX 77703",
+        "TYPE": "Aggravated Robbery",
+        "WEBSITE": "https://kfdm.com/news/local/beaumont-police-investigating-multiple-aggravated-robberies-of-individuals-over-weekend",
+        "DESCRIPTION": "One of 4 Robberies that occurred outside by the victims' car. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1566576, 30.1602443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "10-11-2019",
+        "ADDRESS": "5850 Eastex Fwy, Beaumont, TX 77708",
+        "TYPE": "Aggravated Mugging",
+        "WEBSITE": "https://kfdm.com/news/local/man-accused-of-snatching-womans-purse-in-beaumont-target-parking-lot-responds-to-charge",
+        "DESCRIPTION": "A mugging at a Target parking lot. He was later apprehended."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1531779, 30.1261876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "08-17-2019",
+        "ADDRESS": "1700 Corley Ave, Beaumont, TX 77701",
+        "TYPE": "Shooting",
+        "WEBSITE": "https://kfdm.com/news/local/victim-of-a-shooting-1700-block-of-corley-st",
+        "DESCRIPTION": "The shooter was caught trying to enter Mexico. https://www.kiiitv.com/article/news/crime/shooting-suspect-fleeing-to-mexico-arrested-during-duval-county-traffic-stop/503-115faa43-dcfa-479a-835e-cc888602e6da"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.102094, 30.0620163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "03-29-2019",
+        "ADDRESS": "1800 block of Rivercrest, Beaumont, TX 77703",
+        "TYPE": "Shooting",
+        "WEBSITE": "https://kfdm.com/news/local/bpd-teen-in-hospital-after-gunshot-enters-residence",
+        "DESCRIPTION": "Gun shots were fired into a home and struck a 13 year old."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1156345, 30.1247912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "07-03-2019",
+        "ADDRESS": "9200 block of McLean Street, Beaumont, TX 77701",
+        "TYPE": "Hit & Run",
+        "WEBSITE": "https://kfdm.com/news/local/bpd-searching-for-man-they-call-a-person-of-interest-in-hit-run-that-injured-officer",
+        "DESCRIPTION": "A Hit & Run caused serious injury to an officer. The driver was later apprehended."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.2004344, 30.074835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "07-13-2019",
+        "ADDRESS": "10700 block of Old Sour Lake Road, Beaumont, TX 77713",
+        "TYPE": "Dead Body Recovered",
+        "WEBSITE": "https://kfdm.com/news/local/developing-homicide-investigation-underway-after-body-of-woman-found-in-dumpster-idd",
+        "DESCRIPTION": "A body was found in a dumpster in a rural area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.2222577, 30.076421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "05-21-2019",
+        "ADDRESS": "3200 block of Ashwood, Beaumont, TX 77713",
+        "TYPE": "Shooting",
+        "WEBSITE": "https://kfdm.com/news/local/beaumont-man-charged-after-shots-fired-into-a-home",
+        "DESCRIPTION": "There was disturbance at a house, which led to shots being fired.  Suspect was later caught."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1328907, 30.1124227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "11-14-2019",
+        "ADDRESS": "2578 1H-10 East (Al Basha Mediterranean Restaurant), Beaumont, TX 77713",
+        "TYPE": "Burglary",
+        "WEBSITE": "https://beaumonttexas.gov/additional-information-officer-involved-shooting-11-14-19-2578-ih-10-e/",
+        "DESCRIPTION": "A transient broke into a restaurant, but was killed attacking the police."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1299577, 30.0964783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "11-14-2019",
+        "ADDRESS": "2578 1H-10 East (Al Basha Mediterranean Restaurant), Beaumont, TX 77713",
+        "TYPE": "Burglary",
+        "WEBSITE": "https://beaumonttexas.gov/additional-information-officer-involved-shooting-11-14-19-2578-ih-10-e/",
+        "DESCRIPTION": "A transient broke into a restaurant, but was killed attacking the police."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1299577, 30.0964783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "11-01-2019",
+        "ADDRESS": "5380 Clearwater Ct (Residence Inn), Beaumont, TX 77705",
+        "TYPE": "Car Burglary",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-arrest-auto-burglar-auto-theft-suspect-5380-clearwater-court/",
+        "DESCRIPTION": "A suspect was arrested for multiple car burglaries."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1507419, 30.0417288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "11-01-2019",
+        "ADDRESS": "5380 Clearwater Ct (Residence Inn), Beaumont, TX 77705",
+        "TYPE": "Car Burglary",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-arrest-auto-burglar-auto-theft-suspect-5380-clearwater-court/",
+        "DESCRIPTION": "A suspect was arrested for multiple car burglaries."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1507419, 30.0417288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "10-08-2019",
+        "ADDRESS": "2640 I-10 Frontage Rd (Merit Inn), Beaumont, TX 77703",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/bpd-detectives-identify-robbery-suspect-from-officer-involved-shooting/",
+        "DESCRIPTION": "A suspect was killed attacking a clerk and then an officer."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1283801, 30.0968801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "10-06-2019",
+        "ADDRESS": "1700 Burton St., Beaumont, TX 77705",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/aggravated-assault-1700-block-of-burton-2/",
+        "DESCRIPTION": "A Road Rage incident that lead to a shooting.  Shooter feared for his family's life it was reported."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1013254, 30.0476146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "09-01-2019",
+        "ADDRESS": "Mcfaddin Ave & Forrest St., Beaumont, TX 77701",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-two-aggravated-assaults-forrest-and-mcfaddin/",
+        "DESCRIPTION": "A masked man began shooting at several people striking a male and female."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1058278, 30.0870405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "08-23-2019",
+        "ADDRESS": "4030 Buffalo Ave., Beaumont, TX 77703",
+        "TYPE": "Narcotics",
+        "WEBSITE": "https://beaumonttexas.gov/bpd-narcotics-investigation-and-search-warrant-leads-to-the-arrest-of-three-beaumont-men/",
+        "DESCRIPTION": "Three arrested by possession and dealing lots of different drugs."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1317909, 30.1171779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "08-23-2019",
+        "ADDRESS": "4030 Buffalo Ave., Beaumont, TX 77703",
+        "TYPE": "Narcotics",
+        "WEBSITE": "https://beaumonttexas.gov/bpd-narcotics-investigation-and-search-warrant-leads-to-the-arrest-of-three-beaumont-men/",
+        "DESCRIPTION": "Three arrested by possession and dealing lots of different drugs."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1317909, 30.1171779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "08-07-2019",
+        "ADDRESS": "3987 College St, Beaumont, TX 77707, Beaumont, TX 77703",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/bpd-narcotics-investigation-and-search-warrant-leads-to-the-arrest-of-three-beaumont-men/",
+        "DESCRIPTION": "A dice game lead to a robbery and a shooting."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1359838, 30.0675902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "08-08-2019",
+        "ADDRESS": "660 S M L King Jr Pkwy, Beaumont, TX 77701",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/bpd-narcotics-investigation-and-search-warrant-leads-to-the-arrest-of-three-beaumont-men/",
+        "DESCRIPTION": "A man was arrested for robbing a bank."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1050769, 30.0763953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "08-04-2019",
+        "ADDRESS": "350 Pinchback Rd, Beaumont, TX 77707",
+        "TYPE": "Stabbing",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-woman-arrested-for-aggravated-assault-with-a-deadly-weapon/",
+        "DESCRIPTION": "A woman stabbed her boyfriend during a dispute."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1758185, 30.0727769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "07-23-2019",
+        "ADDRESS": "Landis Dr & Wooten Rd, Beaumont, TX 77707",
+        "TYPE": "Multiple Auto Burglaries",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-arrest-5-for-engaging-in-organized-criminal-activity-recover-7-weapons/",
+        "DESCRIPTION": "Suspects in an auto burglary ring were arrested in a traffic stop."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.2001851, 30.0671604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "07-25-2019",
+        "ADDRESS": "4955 Pine St.(Forrest Lawn Cemetery, Beaumont, TX 77703",
+        "TYPE": "A deceased body found",
+        "WEBSITE": "https://beaumonttexas.gov/missing-beaumont-man-found-deceased-4955-pine/",
+        "DESCRIPTION": "A dead body was found in a car located in the woods near a cemetery."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1016865, 30.1261316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "07-15-2019",
+        "ADDRESS": "2730 E. Lucas Dr., Beaumont, TX 77703",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/bpd-arrests-3-suspects-for-aggravated-robbery-2730-e-lucas-dollar-general/",
+        "DESCRIPTION": "3 men robbed a Dollar General, but were later caught."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1277203, 30.1262697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "07-14-2019",
+        "ADDRESS": "4015 Park St (Khawza Food Mart), Beaumont, TX 77705",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-aggravated-robbery-4025-park/",
+        "DESCRIPTION": "2 men robbed a food mart and fled the area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0926096, 30.0478893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "07-14-2019",
+        "ADDRESS": "4015 Park St (Khawza Food Mart), Beaumont, TX 77705",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-aggravated-robbery-4025-park/",
+        "DESCRIPTION": "2 men robbed a food mart and fled the area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0926096, 30.0478893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "07-10-2019",
+        "ADDRESS": " 1800 block of Euclid, Beaumont, TX 77705",
+        "TYPE": "Aggravated Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-aggravated-robbery-1800-block-of-euclid/",
+        "DESCRIPTION": "One man was shot and robbed outside working on his car."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1028003, 30.0550728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "07-10-2019",
+        "ADDRESS": "5300 block Tyrrell Park Road, Beaumont, TX 77705",
+        "TYPE": "Dead Body Recovered",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-deceased-person-found-in-hillebrandt-bayou-5300-tyrrell-park-rd/",
+        "DESCRIPTION": "A dead body was recovered in a bayou."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1503423, 30.0313666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "07-09-2019",
+        "ADDRESS": "3300 block of St. Helena, Beaumont, TX 77705",
+        "TYPE": "Auto Buglary",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-overnight-auto-burglaries-at-multiple-hotels-1-auto-burglary-arrest/",
+        "DESCRIPTION": "A suspect was arrested for multiple burglaries at local hotels."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1177925, 30.1101334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "06-08-2019",
+        "ADDRESS": "800 Porter St., Beaumont, TX 77701",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-aggravated-assault-800-block-of-porter/",
+        "DESCRIPTION": "An disturbance among serveral individuals led to a woman being shot."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0869239, 30.0649604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "06-05-2019",
+        "ADDRESS": "4135 E. Lucas (EZ Pawn), Beaumont, TX 77701",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/two-men-from-harris-county-arrested-for-felony-theft-ez-pawn-4135-lucas/",
+        "DESCRIPTION": "Two men from Harris County were arrested for robbery of a pawn shop."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1424489, 30.1196811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "05-23-2019",
+        "ADDRESS": "6155 Eastex, Beaumont, TX 77706",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-man-arrested-for-two-counts-of-theft-from-a-person-parkdale-mall-6155-eastex/",
+        "DESCRIPTION": "A man was arrested for stealing two pursues."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1626572, 30.1256873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "05-30-2019",
+        "ADDRESS": "6155 Eastex, Beaumont, TX 77706",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-arrest-a-man-and-woman-after-committing-an-aggravated-robbery-at-6155-eastex/",
+        "DESCRIPTION": "A mugging occurred outside a JC Penny. However, suspects were later caught."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1624705, 30.1261977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "05-30-2019",
+        "ADDRESS": "6155 Eastex, Beaumont, TX 77706",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-arrest-a-man-and-woman-after-committing-an-aggravated-robbery-at-6155-eastex/",
+        "DESCRIPTION": "A mugging occurred outside a JC Penny. However, suspects were later caught."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1624705, 30.1261977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "05-19-2019",
+        "ADDRESS": "3777 College St (EZ Pawn), Beaumont, TX 77701",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-aggravated-robbery-ez-pawn-3777-college/",
+        "DESCRIPTION": "Three men robbed a pawn shop."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1325884, 30.0674197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "05-03-2019",
+        "ADDRESS": "Ave C & Franklin St., Beaumont, TX 77701",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-man-arrested-for-aggravated-robbery/",
+        "DESCRIPTION": "Suspect robbed a man walking to work."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1042216, 30.0694693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "05-07-2019",
+        "ADDRESS": "5900 block of Bedford Dr, Beaumont, TX 77708",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-man-arrested-for-aggravated-assault-w-deadly-weapon-5900-block-of-bedford/",
+        "DESCRIPTION": "An ex-boyfriend shot the current boyfriend at the girlfriend's apartment."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1774131, 30.1333252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "05-03-2019",
+        "ADDRESS": "1915 Pennsylvania, Beaumont, TX 77701",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/aggravated-assault-1915-pennsylvania-longshoremans-hall/",
+        "DESCRIPTION": "A man was stabbed and thrown into a dumpster at the Longshoreman's Hall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0921096, 30.0689723]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "04-21-2019",
+        "ADDRESS": "3130 Concord (E&L Touch of Class), Beaumont, TX 77701",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-an-early-morning-aggravated-assault/",
+        "DESCRIPTION": "A man was found near the street shot and was taken to the hospital."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1239983, 30.1080049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "03-24-2019",
+        "ADDRESS": "4800 block of Park Street, Beaumont, TX 77705",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-man-wanted-for-aggravated-assault/",
+        "DESCRIPTION": "A victim was shot in the face after giving the suspect a car ride."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0932786, 30.0398226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "03-21-2019",
+        "ADDRESS": "5955 Eastex Fwy, Beaumont, TX 77706",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-aggravated-robbery-dillards-5955-eastex-freeway/",
+        "DESCRIPTION": "A man was robbed a handbag display and fled the scene."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.159406, 30.1239233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "03-16-2019",
+        "ADDRESS": "6450 Folsom (Folsom Hike and Bike Trail), Beaumont, TX 77706",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-arrest-hike-bike-auto-burglar-6450-folsom/",
+        "DESCRIPTION": "A man was caught with stolen goods from the Folsom Hike and Bike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1850991, 30.1147788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "02-22-2019",
+        "ADDRESS": "5900 block of Walden Road, Beaumont, TX 77707",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/police-capture-auto-burglary-suspects-in-5900-block-of-walden/",
+        "DESCRIPTION": "Police arrest men who burglarized cars and had a stolen car with stolen weapons inside."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1579367, 30.0385155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "02-17-2019",
+        "ADDRESS": "500 block of Orleans, Beaumont, TX 77707",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-an-aggravated-assault-downtown-beaumont/",
+        "DESCRIPTION": "Gun shots broke out inside of a club, and one person was struck in the stomach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0992831, 30.08262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "02-05-2019",
+        "ADDRESS": "2500 Milam Street, Beaumont, TX 77701",
+        "TYPE": "Aggravated Assault and Sexual Assault",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-man-arrested-for-aggravated-assault-w-deadly-weapon-aggravated-kidnapping-aggravated-sexual-assault-2500-milam/",
+        "DESCRIPTION": "Suspect was arrested for sexual assault and shooting the victim in the hand."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1112853, 30.0661022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "01-30-2019",
+        "ADDRESS": "4405 Dowlen Road, Beaumont, TX 77706",
+        "TYPE": "Auto Burglary/Jugging",
+        "WEBSITE": "https://beaumonttexas.gov/auto-burglary-jugging-suspects-arrested/",
+        "DESCRIPTION": "Police arrested two suspects of auto burglary who were following the victim from a bank."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1602189, 30.1222498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "01-27-2019",
+        "ADDRESS": "810 S Major Dr, Beaumont, TX 77707",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-aggravated-assault-810-s-major-dr/",
+        "DESCRIPTION": "A dice game led to a shooting in a parking lot of two victims."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1911029, 30.0692127]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "01-24-2019",
+        "ADDRESS": "8700 Newfield Ln, Beaumont, TX 77707",
+        "TYPE": "Aggravated Assault",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-double-shooting-8700-newfield/",
+        "DESCRIPTION": "A home invasion/shooting due to narcotics activity led to a double shooting of a pregnate female and an infant."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1930966, 30.0703733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "01-23-2019",
+        "ADDRESS": "1755 E Cardinal Dr., Beaumont, TX 77705",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-man-arrested-for-2-counts-of-aggravated-robbery/",
+        "DESCRIPTION": "Suspects robbed two gas stations.  Suspects were later apprehended."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0641132, 30.0342088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "01-10-2019",
+        "ADDRESS": "5590 Calder Avenue (7-Eleven), Beaumont, TX 77706",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-an-aggravated-robbery-5590-calder-7-eleven/",
+        "DESCRIPTION": "3 suspects robbed a 7-Eleven and fled the scene."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1558959, 30.083115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "01-10-2019",
+        "ADDRESS": "4460 Dowlen Road, Beaumont, TX 77706",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/update-on-january-10-2019-att-burglary-4460-dowlen-rd/",
+        "DESCRIPTION": "7 suspects from Houston robbed an AT&T store, but were all later apprehended."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1567516, 30.1226261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "01-06-2019",
+        "ADDRESS": "5015 Pine St, Beaumont, TX 77703",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-police-investigating-aggravated-robbery-5015-pine-st/",
+        "DESCRIPTION": "Victim was shot in an apartment complex."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1048101, 30.1277921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28014,
+        "Date": "01-01-2019",
+        "ADDRESS": "600 block of Goodhue, Beaumont, TX 77706",
+        "TYPE": "Robbery",
+        "WEBSITE": "https://beaumonttexas.gov/beaumont-man-arrested-for-burglary-600-block-of-goodhue/",
+        "DESCRIPTION": "A home owner shot an attempted burglar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1635641, 30.0808859]
+      }
+    }
+  ]
+}

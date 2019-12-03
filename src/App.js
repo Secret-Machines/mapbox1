@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Switch } from "react-router-dom";
 import Navbar from "./Navbar";
 import Map from "./components/Map";
 import Map2 from "./components/Map2";
@@ -9,6 +9,7 @@ import Resources from "./components/Resources";
 import { useAuth0 } from "./react-auth0-spa";
 import PrivateRoute from "./components/PrivateRoute";
 import About from "./components/About";
+import history from "./utils/history";
 
 export default () => {
   const { loading } = useAuth0();
@@ -19,7 +20,7 @@ export default () => {
 
   return (
     <div>
-      <Router>
+      <Router history={history}>
         <header>
           <Navbar />
         </header>

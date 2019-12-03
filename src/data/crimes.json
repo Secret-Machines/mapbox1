@@ -34,7 +34,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-94.1582822, 30.1254729]
+        "coordinates": [-94.1564082, 30.1258906]
       }
     },
     {
@@ -107,10 +107,10 @@
         "PARK_ID": 960,
         "FACILITYID": 28014,
         "Date": "03-17-2019",
-        "ADDRESS": "5750 S. MLK Jr Pkwy, Beaumont, Tx, 77705",
+        "ADDRESS": "5750 S. MLK Jr Pkwy (Bar 23), Beaumont, Tx, 77705",
         "TYPE": "Murder",
         "WEBSITE": "https://www.beaumontenterprise.com/news/article/Beaumont-homicides-leave-officials-residents-14403344.php#photo-17085009",
-        "DESCRIPTION": "An altercation lead to a murder."
+        "DESCRIPTION": "An altercation lead to a murder at Bar 23."
       },
       "geometry": {
         "type": "Point",
@@ -162,7 +162,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-94.1397422, 30.0992574]
+        "coordinates": [-94.1310155, 30.0991881]
       }
     },
 
@@ -195,7 +195,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-94.1592314, 30.1298413]
+        "coordinates": [-94.1506104, 30.1298265]
       }
     },
     {
@@ -230,7 +230,6 @@
         "coordinates": [-94.1501558, 30.0823289]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
